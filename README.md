@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orange 👨‍💻</h1>
-<h3 align="center">A passionate AI algorithm engineer from Shenzhen China</h3>
+<h3 align="center">A passionate AI algorithm engineer from Shanghai China</h3>
 
 
   <!-- profile logo 个人资料徽标 -->
