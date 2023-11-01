@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm bigorange 👨‍💻</h1>
+<h1 align="center">Hi 👋, I'm Orange 👨‍💻</h1>
 <h3 align="center">A passionate AI algorithm engineer from Shenzhen China</h3>
 
 <p align="center">
@@ -23,9 +23,12 @@
 <div align="center"> <img width="300" height="200" src="https://github.com/codeman008/codeman008/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/> </div>
 
 <div align="left">
-<img height='180' src="https://github-readme-stats.vercel.app/api?username=bigorange18&show_icons=true&theme=tokyonight" align="center" />
-<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigorange18&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=tokyonight" align="center" />
+
+  
+<img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigorange18&hide=html,css,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Batchfile&layout=compact&langs_count=8&theme=tokyonight" align="center" />
+<img height='160' src="https://github-readme-stats.vercel.app/api?username=bigorange18&show_icons=true&theme=tokyonight" align="center" />
 </div>  
+
 
 
 
