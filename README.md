@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Orange 👨‍💻</h1>
 <h3 align="center">A passionate AI algorithm engineer from Shenzhen China</h3>
 
+
+
+
+
+
+
+
 <p align="center">
 <a title="Hits" target="_blank" href="https://github.com/codeman008/codeman008"><img src="https://hits.b3log.org/codeman008/codeman008.svg" ></a>
 <a title="github" target="_blank" href="https://github.com/codeman008"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dcodeman008&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
@@ -9,26 +16,42 @@
 </p>
 
 ![decription](https://img.shields.io/badge/tools-pycharm-green)
+![Static Badge](https://img.shields.io/badge/tools-vscode-blue)
+![Static Badge](https://img.shields.io/badge/python-super-orange)
 
 <p align="center">  How to reach me 📫 zwalgo@funnyai.ac.cn 📫
 
 
-<p align="center"><img width="300" height="200" src="https://github.com/codeman008/codeman008/blob/main/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"/> </div>
+<div align="center"> 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+- 💬 Ask me about anything related to Java/Python.
+- 📫 How to reach me: wisdom_zhe@qq.com
+- 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)
 
 
-
-<div align="center"> <img width="300" height="200" src="https://github.com/codeman008/codeman008/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/> </div>
-
-<div align="left">
-
+</div>
+  <img width="100" height="60" src="https://github.com/codeman008/codeman008/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/> 
   
-<img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigorange18&hide=html,css,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Batchfile&layout=compact&langs_count=8&theme=tokyonight" align="center" />
-<img height='160' src="https://github-readme-stats.vercel.app/api?username=bigorange18&show_icons=true&theme=tokyonight" align="center" />
+
+
+
+<!--另一中显示卡片
+<div align="left">
+  
+  <img height='160' src="https://github-readme-stats.vercel.app/api?username=bigorange18&show_icons=true&theme=tokyonight" align="center" />
+  <img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigorange18&hide=html,css,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Batchfile&layout=compact&langs_count=8&theme=tokyonight" align="center" />
 </div>  
+-->
+<div align="center">
+</div>
+
+<div align="center">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=bigorange18&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+    <img  height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigorange18&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
 
 
-
+![Metrics](https://metrics.lecoq.io/bigorange18?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
