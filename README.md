@@ -8,8 +8,21 @@
  * 
  * Copyright (c) 2025 by ${git_name_email}, All Rights Reserved. 
 -->
-<h1 align="center">Hi 👋, I'm Orange 👨‍💻</h1>
+<!-- <h1 align="center">Hi 👋, I'm Orange 👨‍💻</h1> -->
+
+
+<!-- 个人简介-->
+<div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=屏幕前的生活，不是你我的全部;I'm+big-orange+Welcome+!&center=true&size=27"> </a> </div>
 <h3 align="center">A passionate AI algorithm engineer from Shanghai China</h3>
+
+<br><br>
+<!-- Star 2023-->
+<div align="center"> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star.png?raw=true">
+
+<!-- 数据展示-主题&theme=radical-->
+<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigorange18&theme=radical&hide_border=true" />
+&emsp;<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_right.png?raw=true" />
 
 <div align="center">
   <!-- profile logo 个人资料徽标 -->
@@ -122,12 +135,18 @@ Here are some ideas to get you started:
 </div> -->
 
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=bigorange18&theme=xcode" /> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bigorange18" /> </div>
+<!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=bigorange18&theme=xcode" /> </div> -->
+<!-- <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bigorange18" /> </div>  -->
 
-
+<H2>Favorite❤️Movie</H2>
+<div align="center">
+<img height="200" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.gif?raw=true">
+</div>
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img width:100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+<img  width:100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
 </p>
+
+
+
