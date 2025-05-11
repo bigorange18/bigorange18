@@ -2,7 +2,7 @@
  * @Author: royal-killer 1581279688@qq.com
  * @Date: 2025-05-11 18:14:48
  * @LastEditors: royal-killer 1581279688@qq.com
- * @LastEditTime: 2025-05-11 18:26:41
+ * @LastEditTime: 2025-05-11 18:30:29
  * @FilePath: \bigorange18\README.md
  * @Description: 
  * 
@@ -41,8 +41,8 @@
 <!-- <div align="center"> <img src="https://metrics.lecoq.io/bigorange18?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 <!-- GitHub 数据统计 -->
 <div align="left">
-<!-- <img align="center" height="117px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bigorange18&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
-<img align="center" height="100px" src="https://github-readme-stats.vercel.app/api?username=bigorange18&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img align="center" height="117px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bigorange18&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<!-- <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api?username=bigorange18&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
 
 <img align="center" height="117px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bigorange18&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 </div>  
