@@ -1,3 +1,13 @@
+<!--
+ * @Author: royal-killer 1581279688@qq.com
+ * @Date: 2025-05-11 18:14:48
+ * @LastEditors: royal-killer 1581279688@qq.com
+ * @LastEditTime: 2025-05-11 18:20:36
+ * @FilePath: \bigorange18\README.md
+ * @Description: 
+ * 
+ * Copyright (c) 2025 by ${git_name_email}, All Rights Reserved. 
+-->
 <h1 align="center">Hi 👋, I'm Orange 👨‍💻</h1>
 <h3 align="center">A passionate AI algorithm engineer from Shanghai China</h3>
 
@@ -28,7 +38,7 @@
 	<img  src="https://github-profile-trophy.vercel.app/?username=bigorange18&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 </div>
 
-  
+<div align="center"> <img src="https://metrics.lecoq.io/bigorange18?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <!-- GitHub 数据统计 -->
 <div align="left">
 <img align="center" height="117px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bigorange18&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
