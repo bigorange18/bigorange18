@@ -24,6 +24,11 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigorange18&theme=radical&hide_border=true" />
 &emsp;<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_right.png?raw=true" />
 
+<!-- 展示总贡献量，输出图片颜色不一样-->
+<!-- <div align="center">
+	<img  src="https://streak-stats.demolab.com/?user=bigorange18&theme=gruvbox&border_radius=20&locale=zh_Hans&date_format=%5BY.%5Dn.j" /><br>
+</div> -->
+
 <div align="center">
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -62,7 +67,9 @@ Here are some ideas to get you started:
 - :1st_place_medal: 自由、平等、公正、法治: 是我们党矢志不渝、长期实践的核心价值理念
 
 - :sun_with_face: 爱国、敬业、诚信、友善: 个人行为层面对社会主义核心价值观基本理念的凝练
-  
+
+
+ 
 </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
